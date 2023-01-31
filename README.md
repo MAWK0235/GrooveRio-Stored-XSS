@@ -1,9 +1,14 @@
 # 
 //# Exploit Title: GrooveRio-Stored-XSS via feature misuse
+
 //# Date: 1/31/2023
+
 //# Exploit Author: Jarod Jaslow (MAWK)
+
 //# Vendor Homepage: https://opto22.com/
+
 //# Version: Groove Manage version 3.2.1
+
 //# Tested on: Groove Manage version 3.2.1
 
 
