@@ -1,6 +1,10 @@
-# GrooveRio-Stored-XSS
-// tested on System version 3.2.1-b51
-// tested on Groove Manage version 3.2.1
+# 
+//# Exploit Title: GrooveRio-Stored-XSS via feature misuse
+//# Date: 1/31/2023
+//# Exploit Author: Jarod Jaslow (MAWK)
+//# Vendor Homepage: https://opto22.com/
+//# Version: Groove Manage version 3.2.1
+//# Tested on: Groove Manage version 3.2.1
 
 
 You are able to acheive Stored XSS via feature misuse on current and recent versions of Groove rio from opto22.
