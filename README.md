@@ -1,6 +1,6 @@
 # GrooveRio-Stored-XSS
-# tested on System version 3.2.1-b51
-# tested on Groove Manage version 3.2.1
+// tested on System version 3.2.1-b51
+// tested on Groove Manage version 3.2.1
 
 
 You are able to acheive Stored XSS via feature misuse on current and recent versions of Groove rio from opto22.
