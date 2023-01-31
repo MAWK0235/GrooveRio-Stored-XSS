@@ -14,7 +14,7 @@
 
 You are able to acheive Stored XSS via feature misuse on current and recent versions of Groove rio from opto22.
 
-I have contacted them to report this vulnerability but they have labeled it as a feature so here is my writup on it. 
+I have contacted them to report this vulnerability but they have labeled it as a feature so here is my writeup on it. 
 
 Step 1: Authenticate as a user. I did this by cracking weak credentials and then creating my own account as admin via /manage/accounts/users/new
 
